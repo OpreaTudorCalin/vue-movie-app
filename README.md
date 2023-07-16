@@ -40,6 +40,6 @@ To fetch movie data from the OMDB API, an API key is required. Make sure to prov
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
+## Copyright
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is protected by the copyright of Oprea Tudor Calin. All rights reserved. Without written permission from the copyright holder, this project cannot be used, modified, or distributed in any form or by any means.
